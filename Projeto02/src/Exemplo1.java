@@ -11,8 +11,11 @@ public class Exemplo1 {
 		System.out.println("Bem vindo ao universo JAVA!");
 		//Crtl + F11 executa o comando
 		//Exibição sem quebra de linha
-		System.out.print("Matheus");
-		System.out.print("Carvalho");
+		String cidade = "São Paulo";
+		int dia = 25;
+		String mes = "agosto";
+		int ano = 2022;
+		System.out.println( cidade + " , " + dia + " de " + mes  + " de " + ano );
 	}
 
 }
