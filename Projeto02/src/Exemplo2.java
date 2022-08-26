@@ -12,7 +12,7 @@ public class Exemplo2 {
 		System.out.println(idade + " " + "anos");
 		String profissao = "Desenvolvedor de Software";
 		System.out.println(profissao);
-		String cidade = "São Paulo";
+		
 	}
 
 }
